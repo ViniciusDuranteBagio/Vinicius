@@ -66,8 +66,6 @@ Formado Barcharel em Sistemas de Informação.
 
 #### Arquiteturas
 * MVC ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
-* Rest ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
-* Soap ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
 
  #### Game Development
 * Unity ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
