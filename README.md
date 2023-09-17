@@ -26,7 +26,7 @@ Iniciei aqui como programador Junior. Habilidades usadas durante todo o tempo aq
 ### Outras experiências 
 * Criei para o meu TCC da faculdade um sistema para academias utilizando Laravel com Bootstrap e BackPack para as CRUDS do ADMIN.
 * Criei um jogo chamado Galaxy Shooter enquanto estava fazendo o Curso de desenvolvimentos de jogos para unity na Udemy, com esse jogo eu aprendi sobre como funciona a unity, animações de sprite 2d, como adicionar efeutis sonsoros ao jogo, como criar scrips basicos para jogos 2d. Após o termino do curso e a criação do jogo basico ensiado eu achei o jogo muito simples e com isso decidi alterar criando um sistema de fases com 4 fases, uma boss fight em cada troca de fase e um sistema de aumento de dificuldade. Esse jogo pode ser jogado no link: [galaxyshooter.viniciusbagio.dev.br/](galaxyshooter.viniciusbagio.dev.br/)
-* Estou criando atualmente um jogo de RPG topdown, com isso estou aprendendo sobre scriptable objects e boas praticas de programação de jogos com a Unity enquanto estou fazendo o Curso de desenvolvimentos de jogos 2D com Unity, do canal Crie seus jogos.
+* Estou criando atualmente um jogo de RPG topdown, com isso estou aprendendo sobre scriptable objects, como fazer animações 2d e boas praticas de programação de jogos com a Unity enquanto estou fazendo o Curso de desenvolvimentos de jogos 2D com Unity, do canal Crie seus jogos.
 * Estou criando tambem um clone do Pokemon utilizando a unity e fazendo o jogo em 2D. 
 
 ### Formação
