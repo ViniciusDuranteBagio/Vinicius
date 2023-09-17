@@ -6,7 +6,6 @@ Apaixonado por tecnologia e desenvolvimento de sites e aplicativos e jogos entre
 * Também trabalho muito com: Slim, AngularJS, Doctrine. 
 * Experiente em testes unitários e de integração.
 * Tenho experiência em metodologias Ágeis.
-* Tenho ampla experiência em metodologias Ágeis e Ciclo de vida de desenvolvimento de software (SDLC).
 * Sou energético, empenhado e tenho vontade para superar obstaculos e atingir os meus objetivos.
 * Forte desejo em aprendizado constante de novas tecnologias e metodologias.
 
