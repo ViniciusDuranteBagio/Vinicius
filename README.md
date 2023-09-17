@@ -9,7 +9,6 @@ Apaixonado por tecnologia e desenvolvimento de sites e aplicativos e jogos entre
 * Tenho ampla experiência em metodologias Ágeis e Ciclo de vida de desenvolvimento de software (SDLC).
 * Sou energético, empenhado e tenho vontade para superar obstaculos e atingir os meus objetivos.
 * Forte desejo em aprendizado constante de novas tecnologias e metodologias.
-* 
 
 #### Áreas que trabalhei
 
