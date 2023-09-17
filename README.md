@@ -51,13 +51,13 @@ Formado Barcharel em Sistemas de Informação.
 * Laravel ![badge](https://img.shields.io/badge/Basico-desde_2021-yellow)
 * Slim ![badge](https://img.shields.io/badge/Basico-desde_2021-yellow)
 * Testes Unitários (PHPUnit) ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
-* 
+  
 #### Front-End / Frameworks
 * CSS ![badge](https://img.shields.io/badge/Básico-desde_2021-yellow)
 * Javascript ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
 * Bootstrap ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
 * Angular ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
-* 
+
 #### Banco de dados / Serviços de Cache
 * Mysql ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
 * Redis ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
