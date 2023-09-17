@@ -26,8 +26,8 @@ Iniciei aqui como programador Junior. Habilidades usadas durante todo o tempo aq
 
 ### Outras experiências 
 * Criei para o meu TCC da faculdade um sistema para academias utilizando Laravel com Bootstrap e BackPack para as CRUDS do ADMIN.
-* Criei um jogo chamado Galaxy Shooter enquanto estava fazendo o Curso de desenvolvimentos de jogos para unity na Udemy. Esse jogo pode ser jogado no link: [galaxyshooter.viniciusbagio.dev.br/](galaxyshooter.viniciusbagio.dev.br/)
-* Estou criando atualmente um jogo de RPG topdown enquanto estou fazendo o Curso de desenvolvimentos de jogos 2D com Unity, do canal Crie seus jogos.
+* Criei um jogo chamado Galaxy Shooter enquanto estava fazendo o Curso de desenvolvimentos de jogos para unity na Udemy, com esse jogo eu aprendi sobre como funciona a unity, animações de sprite 2d, como adicionar efeutis sonsoros ao jogo, como criar scrips basicos para jogos 2d. Após o termino do curso e a criação do jogo basico ensiado eu achei o jogo muito simples e com isso decidi alterar criando um sistema de fases com 4 fases, uma boss fight em cada troca de fase e um sistema de aumento de dificuldade. Esse jogo pode ser jogado no link: [galaxyshooter.viniciusbagio.dev.br/](galaxyshooter.viniciusbagio.dev.br/)
+* Estou criando atualmente um jogo de RPG topdown, com isso estou aprendendo sobre scriptable objects e boas praticas de programação de jogos com a Unity enquanto estou fazendo o Curso de desenvolvimentos de jogos 2D com Unity, do canal Crie seus jogos.
 * Estou criando tambem um clone do Pokemon utilizando a unity e fazendo o jogo em 2D. 
 
 ### Formação
@@ -70,6 +70,10 @@ Formado Barcharel em Sistemas de Informação.
 * Rest ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
 * Soap ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
 
+* #### Game Development
+* Unity ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
+* C# ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
+  
 #### Outros
 * Jira ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
 * Git + Gitflow ![badge](https://img.shields.io/badge/Avançado-desde_2021-blue)
@@ -78,6 +82,7 @@ Formado Barcharel em Sistemas de Informação.
 * Design Patterns ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
 * Orientação a Objetos (POO) ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
 * Mensageria (Redis, RabbitMQ) ![badge](https://img.shields.io/badge/Intermediario-desde_2021-blue)
+
 
 ### Contatos
 * E-mail pessoal: viniciusduranteb@gmail.com
