@@ -11,7 +11,7 @@ Apaixonado por tecnologia e desenvolvimento de sites e aplicativos e jogos entre
 
 #### Áreas que trabalhei
 
-#### Desenvolvedor Backend - Climba Commerce 08/2021 - Atualmente
+#### Desenvolvedor Backend - Climba Commerce 10/2021 - Atualmente
 Iniciei aqui como programador Junior. Habilidades usadas durante todo o tempo aqui: PHP, Slim Framework, Mysql, Redis, Docker, RabbitMQ, REST, Bootstrap, Angular, Javascript, AWS, Doctrine. A Climba é uma plataforma SASS de ecommerce, hospedado na AWS. Lá dentro tive participação em todos os produtos existentes, onde algúns deles seriam:
 * Integrações com API de gateways de pagamento
 * Integrações com API de transportadoras
